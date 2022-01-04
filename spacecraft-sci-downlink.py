@@ -1,6 +1,7 @@
 '''
-    This files extracts the science packets (0x08) from the raw .bin files.
-    It cleans and filters, then exports ready for plotting
+    This file extracts the science data from the space-based plasma spectrometer
+    
+    It cleans and filters the data, then exports it for plotting.
     
     Created by Sachin A. Reddy
 
